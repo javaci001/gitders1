@@ -1,0 +1,7 @@
+*.jar
+DataUretImageYapma/DataUret.jar
+streamnereye/DataUret.jar
+venv
+.idea
+spark-warehouse
+/PYCHARM/spark-warehouse
